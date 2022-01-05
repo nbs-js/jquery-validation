@@ -25,7 +25,7 @@
 	],
 	"scripts": {
 		"test": "grunt",
-		"prepublish": "grunt"
+		"prepublish": "grunt --force"
 	},
 	"files": [
 		"dist/localization/",
